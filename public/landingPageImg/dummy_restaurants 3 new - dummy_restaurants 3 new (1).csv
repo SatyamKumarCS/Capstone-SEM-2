@@ -1,0 +1,21 @@
+name,city,rating,cost_for_two,cusine,online_order,table_reservation
+Gabbar's Bar & Kitchen,Kolkata,4.3,1500,"North Indian, Chinese, Mexican, Italian",FALSE,TRUE
+Sardaar Ji De Chole Bhature,Delhi NCR,3.6,100,North Indian,TRUE,FALSE
+YellowKrust,Delhi NCR,3.8,400,"Bakery, Desserts",FALSE,FALSE
+Hungry Minister,Delhi NCR,3.7,400,"Continental, Mexican, Fast Food, Chinese",TRUE,FALSE
+Night Food Xprs,Delhi NCR,3.3,500,"North Indian, Chinese",TRUE,FALSE
+HOP House of Proteins,Delhi NCR,4.8,600,"Continental, North Indian, Healthy Food, Beverages",TRUE,FALSE
+Daana Paani Family Restaurant,Kolkata,3.4,300,"North Indian, Chinese",TRUE,FALSE
+Swad Restaurant,Delhi NCR,3.8,750,"North Indian, Chinese, Mughlai",TRUE,FALSE
+Chai Peeni Hai,Delhi NCR,3.7,200,"Tea, Fast Food",TRUE,FALSE
+Baskin Robbins,Mumbai,3.8,200,"Ice Cream, Desserts, Beverages",FALSE,FALSE
+Spirit,Mumbai,NaN,850,"Chinese, North Indian, Mughlai",NaN,NaN
+Purple Box,Mumbai,3.9,200,"Fast Food, Beverages, Desserts",TRUE,FALSE
+Mio Amore,Kolkata,3.4,150,Bakery,FALSE,FALSE
+Talli Pangs,Delhi NCR,3.7,300,"Fast Food, North Indian",FALSE,FALSE
+Just Baked,Kolkata,3.3,250,"Bakery, Fast Food",FALSE,FALSE
+Monginis,Mumbai,3.4,200,"Bakery, Fast Food",TRUE,FALSE
+The Bohri Kitchen,Mumbai,4.8,600,"Mughlai, North Indian, Biryani",NaN,NaN
+Italy in a Box,Mumbai,NaN,800,"Italian, Continental",TRUE,FALSE
+PizzaExpress,Mumbai,4.3,1900,"Italian, Pizza",TRUE,TRUE
+Artusi Ristorante in Piazza Horizon,Delhi NCR,4.3,3500,Italian,FALSE,TRUE
